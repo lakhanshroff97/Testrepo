@@ -10,12 +10,17 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            //This my method.
+            int a = 10;
+            int b = 12;
+            int sum = a + b;
+            Console.WriteLine("the sum is={0}", sum);
             Console.WriteLine("Hello Anand");
-            //Hello world.
+            Abc();
         }
         public static void Abc()
         {
-            //This my method.
+         //sadf  
         }
     }
 }
