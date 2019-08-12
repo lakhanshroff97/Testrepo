@@ -10,6 +10,11 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Anand");
+        }
+        public static void Abc()
+        {
+            //This my method.
         }
     }
 }
