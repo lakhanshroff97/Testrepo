@@ -10,6 +10,10 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            int a=10;
+            int b=12;
+            int sum=a+b;
+            Console.WriteLine(sum);
         }
     }
 }
